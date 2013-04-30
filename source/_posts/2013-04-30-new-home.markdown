@@ -1,0 +1,13 @@
+---
+layout: post
+title: "New home"
+date: 2013-04-30 20:28
+comments: true
+categories: meta
+---
+Thanks to this being [Posterous' last day](http://blog.posterous.com/thanks-from-posterous) I'm
+spending the evening moving my blog to [Octopress](http://octopress.org/), hosted on
+Github.
+
+Fortunately my strategy of creating *very few posts* has made this task a little less
+arduous than it might otherwise have been.
